@@ -1,0 +1,14 @@
+C:\Users\vlone\OneDrive\Документы\GitHub\erickosimans\bin\Debug\net10.0\erickosimans.exe
+C:\Users\vlone\OneDrive\Документы\GitHub\erickosimans\bin\Debug\net10.0\erickosimans.deps.json
+C:\Users\vlone\OneDrive\Документы\GitHub\erickosimans\bin\Debug\net10.0\erickosimans.runtimeconfig.json
+C:\Users\vlone\OneDrive\Документы\GitHub\erickosimans\bin\Debug\net10.0\erickosimans.dll
+C:\Users\vlone\OneDrive\Документы\GitHub\erickosimans\bin\Debug\net10.0\erickosimans.pdb
+C:\Users\vlone\OneDrive\Документы\GitHub\erickosimans\obj\Debug\net10.0\erickosimans.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlone\OneDrive\Документы\GitHub\erickosimans\obj\Debug\net10.0\erickosimans.AssemblyInfoInputs.cache
+C:\Users\vlone\OneDrive\Документы\GitHub\erickosimans\obj\Debug\net10.0\erickosimans.AssemblyInfo.cs
+C:\Users\vlone\OneDrive\Документы\GitHub\erickosimans\obj\Debug\net10.0\erickosimans.csproj.CoreCompileInputs.cache
+C:\Users\vlone\OneDrive\Документы\GitHub\erickosimans\obj\Debug\net10.0\erickosimans.dll
+C:\Users\vlone\OneDrive\Документы\GitHub\erickosimans\obj\Debug\net10.0\refint\erickosimans.dll
+C:\Users\vlone\OneDrive\Документы\GitHub\erickosimans\obj\Debug\net10.0\erickosimans.pdb
+C:\Users\vlone\OneDrive\Документы\GitHub\erickosimans\obj\Debug\net10.0\erickosimans.genruntimeconfig.cache
+C:\Users\vlone\OneDrive\Документы\GitHub\erickosimans\obj\Debug\net10.0\ref\erickosimans.dll
